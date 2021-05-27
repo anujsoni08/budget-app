@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "description": "Work Income"
+    },
+    {
+      "id": 4,
+      "description": "Power Bill"
+    },
+    {
+      "id": "addc1fc0-d018-4680-9191-4e48080ffd58",
+      "description": "Akash2"
+    },
+    {
+      "id": "2af365b9-7df7-4fd4-8a60-9e82b4fbcd9e",
+      "description": "aa"
+    },
+    {
+      "id": "8b3ec4da-e5f6-40e3-bfb7-94271bcd0050",
+      "description": "a"
+    },
+    {
+      "id": "a74710e5-f15f-4725-806f-f8bcdd4ab5e6",
+      "description": "assa"
+    }
+  ],
+  "values": [
+    {
+      "id": 1,
+      "value": 10000,
+      "isExpense": false
+    },
+    {
+      "id": 4,
+      "value": 500,
+      "isExpense": true
+    },
+    {
+      "id": "addc1fc0-d018-4680-9191-4e48080ffd58",
+      "isExpense": false,
+      "value": "200"
+    },
+    {
+      "id": "2af365b9-7df7-4fd4-8a60-9e82b4fbcd9e",
+      "isExpense": true,
+      "value": "200"
+    },
+    {
+      "id": "8b3ec4da-e5f6-40e3-bfb7-94271bcd0050",
+      "isExpense": false,
+      "value": "500"
+    },
+    {
+      "id": "a74710e5-f15f-4725-806f-f8bcdd4ab5e6",
+      "isExpense": true,
+      "value": "200"
+    }
+  ]
+}

@@ -16,7 +16,7 @@ const EntryForm = ({
           icon="tags"
           width={12}
           label="Description"
-          placeholder="New shinny thing"
+          placeholder="Add Description"
           value={description}
           onChange={(event) => setDescription(event.target.value)}
         ></Form.Input>
@@ -25,7 +25,7 @@ const EntryForm = ({
           iconPosition="left"
           width={4}
           label="Value"
-          placeholder="100.00"
+          placeholder="Add Value"
           value={value}
           onChange={(event) => setValue(event.target.value)}
         ></Form.Input>
